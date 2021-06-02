@@ -1,9 +1,10 @@
 // Design ‘Big N’ with character ‘N’, Vary the size of ‘Big N’ as per user input, like 10, 15, 20 e.t.c.
 
 #include <iostream>
-
 using namespace std;
 
+// Prints the character N of given size, using the character 'N'
+// size must be > 2
 int main()
 {
     
@@ -36,6 +37,6 @@ int main()
         if(x == "n" || x == "N")
             break;
     }
-    cout<<"Exiting...";
+    cout<<"Exiting...\n";
     return 0;
 }
