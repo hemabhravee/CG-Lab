@@ -15,5 +15,9 @@ Repo for CG-Lab assignments
 ```shell
 g++ <filename>.cpp -o <filename>_output.exe
 ```
+* Finally, execute the output file by running
+```shell
+./<filename>_output.exe
+```
 
 
