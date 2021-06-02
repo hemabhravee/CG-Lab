@@ -7,7 +7,13 @@ Repo for CG-Lab assignments
 * Click on ```Gitpod``` and it should open VSCode in a new tab with the current repo.
 
 ## How to Run the code
-* Run the output file for any assignment in the terminal as ```./<filename>_output.exe```
-* If the output file does not already exist, create one by running ```g++ <filename>.cpp -o <filename>_output.exe```
+* Run the output file for any assignment in the terminal as 
+```shell
+./<filename>_output.exe
+```
+* If the output file does not already exist, create one by running
+```shell
+g++ <filename>.cpp -o <filename>_output.exe
+```
 
 
