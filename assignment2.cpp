@@ -1,6 +1,6 @@
 //Reflect the Big “N” along vertical axis.
 //Reflect the Big “N” along horizontal axis.
-/Vary the axis placement, i,e distance of original figure from axis.
+//Vary the axis placement, i,e distance of original figure from axis.
 
 #include <iostream>
 #include<vector> 
