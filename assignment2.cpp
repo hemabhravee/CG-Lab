@@ -1,4 +1,6 @@
-// Design ‘Big N’ with character ‘N’, Vary the size of ‘Big N’ as per user input, like 10, 15, 20 e.t.c.
+//Reflect the Big “N” along vertical axis.
+//Reflect the Big “N” along horizontal axis.
+/Vary the axis placement, i,e distance of original figure from axis.
 
 #include <iostream>
 #include<vector> 
